@@ -1,1 +1,1 @@
-# Igra-moj-broj-Java
+# Slagalica-igra-moj-broj-Java
